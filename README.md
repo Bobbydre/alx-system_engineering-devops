@@ -1,1 +1,1 @@
-This repository contains the solution to tasks
+Shell variables expansions
